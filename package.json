@@ -8,6 +8,9 @@
         "start": "webpack-dev-server --mode=development --open --hot",
         "build": "webpack --mode=production"
     },
+    "babel": {
+        "presets": ["@babel/preset-env", "@babel/preset-react"]
+    },
     "author": "",
     "license": "ISC",
     "dependencies": {
