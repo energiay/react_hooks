@@ -25,6 +25,8 @@ const plugins = () => {
             filename: filename('css'),
         }),
         new CleanWebpackPlugin(),
+
+        // это чуть позже гляну
         /*new CopyWebpackPlugin({
             patterns: [
                 {
