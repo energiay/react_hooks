@@ -31,6 +31,6 @@
         "webpack-dev-server": "^4.10.1"
     },
     "bin": {
-        "your-boilerplate-name": "./bin/start.js"
+        "react-boilerplate": "./bin/start.js"
     }
 }
