@@ -1,3 +1,4 @@
+// https://habr.com/ru/company/ruvds/blog/515008/
 // sudo npm link
 
 const path = require('path');
